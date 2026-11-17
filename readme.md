@@ -58,7 +58,7 @@ To understand the impact of spatial and color augmentations on a small dataset, 
     *   **mAP50-95 increased by +6.8%**, indicating much tighter and more accurate bounding box localization.
 
 **Results of training with Synthetic Data:**
-![Synthetic Data Results](report/results_with_syntethic.png)
+![Synthetic Data Results](report/results_with_synthetic.png)
 
 ## 🚀 Performance Benchmarking (Inference)
 The system's inference latency was evaluated to understand edge-deployment feasibility:
